@@ -41,6 +41,11 @@ optic system consisting of a transmitter, a fiber and a receiver. The system is 
 an optical power meter at the input to receiver (or the output of the fiber) and a bit error rate (BER) 
 analyzer.
 
+
+<img width="729" height="367" alt="image" src="https://github.com/user-attachments/assets/7bd4e3da-aab4-4611-891e-32985cda693b" />
+
+
+
 ## Instructions
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
